@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Loader", "Loader.vbproj", "{CBFF4BCC-499F-4093-840F-1BAE2997DED7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Phonebook", "..\Phonebook\Phonebook.vbproj", "{B8225F75-73D7-477B-BA8E-A730FCADC7C0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{F6529FE3-A694-4ECA-BF8C-1FB72CF38B49}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CBFF4BCC-499F-4093-840F-1BAE2997DED7}.Debug.ActiveCfg = Debug|.NET
+		{CBFF4BCC-499F-4093-840F-1BAE2997DED7}.Debug.Build.0 = Debug|.NET
+		{CBFF4BCC-499F-4093-840F-1BAE2997DED7}.Release.ActiveCfg = Release|.NET
+		{CBFF4BCC-499F-4093-840F-1BAE2997DED7}.Release.Build.0 = Release|.NET
+		{B8225F75-73D7-477B-BA8E-A730FCADC7C0}.Debug.ActiveCfg = Debug|.NET
+		{B8225F75-73D7-477B-BA8E-A730FCADC7C0}.Debug.Build.0 = Debug|.NET
+		{B8225F75-73D7-477B-BA8E-A730FCADC7C0}.Release.ActiveCfg = Release|.NET
+		{B8225F75-73D7-477B-BA8E-A730FCADC7C0}.Release.Build.0 = Release|.NET
+		{F6529FE3-A694-4ECA-BF8C-1FB72CF38B49}.Debug.ActiveCfg = Debug
+		{F6529FE3-A694-4ECA-BF8C-1FB72CF38B49}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

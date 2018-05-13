@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="dsr" targetNamespace="http://www.tempuri.org/dsr.xsd" xmlns:mstns="http://www.tempuri.org/dsr.xsd" xmlns="http://www.tempuri.org/dsr.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="dsr" msdata:IsDataSet="true" msdata:Locale="fa-IR">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="Faktor">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ShomareFaktor" type="xs:int" minOccurs="0" />
+              <xs:element name="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Lname" type="xs:string" minOccurs="0" />
+              <xs:element name="PesonaliNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ShomareParvande" type="xs:string" minOccurs="0" />
+              <xs:element name="Sharhekhadamat" type="xs:string" minOccurs="0" />
+              <xs:element name="Tarikh" type="xs:string" minOccurs="0" />
+              <xs:element name="Hazinekhadamat" type="xs:int" minOccurs="0" />
+              <xs:element name="Hazinelabratuar" type="xs:int" minOccurs="0" />
+              <xs:element name="NameDandanpezeshk" type="xs:string" minOccurs="0" />
+              <xs:element name="noekhadamat" type="xs:string" minOccurs="0" />
+              <xs:element name="teded" type="xs:int" minOccurs="0" />
+              <xs:element name="moaref" type="xs:string" minOccurs="0" />
+              <xs:element name="sharhh" type="xs:string" minOccurs="0" />
+              <xs:element name="sahmedentist" type="xs:int" minOccurs="0" />
+              <xs:element name="noetarefe" type="xs:string" minOccurs="0" />
+              <xs:element name="Deleted" type="xs:boolean" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<dsD xmlns="http://www.tempuri.org/dsD.xsd">
+  <Order_x0020_Details>
+    <OrderID>10260</OrderID>
+    <ProductID>41</ProductID>
+    <UnitPrice>7.7000</UnitPrice>
+    <Quantity>16</Quantity>
+    <Discount>0.25</Discount>
+    <Total>92.3999939</Total>
+  </Order_x0020_Details>
+  <Order_x0020_Details>
+    <OrderID>10260</OrderID>
+    <ProductID>57</ProductID>
+    <UnitPrice>15.6000</UnitPrice>
+    <Quantity>50</Quantity>
+    <Discount>0</Discount>
+    <Total>780</Total>
+  </Order_x0020_Details>
+  <Order_x0020_Details>
+    <OrderID>10260</OrderID>
+    <ProductID>62</ProductID>
+    <UnitPrice>39.4000</UnitPrice>
+    <Quantity>15</Quantity>
+    <Discount>0.25</Discount>
+    <Total>443.25</Total>
+  </Order_x0020_Details>
+  <Order_x0020_Details>
+    <OrderID>10260</OrderID>
+    <ProductID>70</ProductID>
+    <UnitPrice>12.0000</UnitPrice>
+    <Quantity>21</Quantity>
+    <Discount>0.25</Discount>
+    <Total>189</Total>
+  </Order_x0020_Details>
+</dsD>

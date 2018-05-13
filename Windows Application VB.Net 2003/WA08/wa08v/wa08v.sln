@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "wa08v", "wa08v.vbproj", "{A8C5EAD5-552C-4118-8ED8-C52DD904B490}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NewText", "..\NewText\NewText.vbproj", "{A7C6A496-4B03-479D-AEB2-8117501F847E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A8C5EAD5-552C-4118-8ED8-C52DD904B490}.Debug.ActiveCfg = Debug|.NET
+		{A8C5EAD5-552C-4118-8ED8-C52DD904B490}.Debug.Build.0 = Debug|.NET
+		{A8C5EAD5-552C-4118-8ED8-C52DD904B490}.Release.ActiveCfg = Release|.NET
+		{A8C5EAD5-552C-4118-8ED8-C52DD904B490}.Release.Build.0 = Release|.NET
+		{A7C6A496-4B03-479D-AEB2-8117501F847E}.Debug.ActiveCfg = Debug|.NET
+		{A7C6A496-4B03-479D-AEB2-8117501F847E}.Debug.Build.0 = Debug|.NET
+		{A7C6A496-4B03-479D-AEB2-8117501F847E}.Release.ActiveCfg = Release|.NET
+		{A7C6A496-4B03-479D-AEB2-8117501F847E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

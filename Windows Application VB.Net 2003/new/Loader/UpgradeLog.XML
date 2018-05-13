@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Loader">
+</Property><Property Name="Solution File" Value="G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Loader.sln">
+</Property><Property Name="User Options File" Value="G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Loader.suo">
+</Property><Property Name="Date" Value="السبت, جوييه 04, 2009">
+</Property><Property Name="Time" Value="15:08 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Loader.sln" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Loader.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Loader.suo" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Loader.suo">
+</Event><Event ErrorLevel="0" Project="Loader" Source="Loader.vbproj" Description="Project file successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Loader.vbproj">
+</Event><Event ErrorLevel="0" Project="Loader" Source="Loader.vbproj.user" Description="Project user file successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Loader.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Loader" Source="AssemblyInfo.vb" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Loader" Source="Form1.vb" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Loader" Source="Form1.resx" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Loader" Source="Loader.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Loader" Source="Loader.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Phonebook" Source="..\Phonebook\Phonebook.vbproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Phonebook" Source="..\Phonebook\Phonebook.vbproj" Description="Project file successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Phonebook\Phonebook.vbproj">
+</Event><Event ErrorLevel="0" Project="Phonebook" Source="..\Phonebook\Phonebook.vbproj.user" Description="Project user file successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Phonebook\Phonebook.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Phonebook" Source="..\Phonebook\AssemblyInfo.vb" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Phonebook\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Phonebook" Source="..\Phonebook\Form1.vb" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Phonebook\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Phonebook" Source="..\Phonebook\Form1.resx" Description="File successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Phonebook\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Phonebook" Source="..\Phonebook\Phonebook.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Phonebook" Source="..\Phonebook\Phonebook.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Setup1" Source="..\Setup1\Setup1.vdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Setup1.vdproj" Source="..\Setup1\Setup1.vdproj" Description="Project file successfully backed up as G:\Programming\VB.Net\Class Projects\Windows Application VB.Net 2003\new\Loader\Backup\Setup1\Setup1.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Loader.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Loader.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Loader" Source="Loader.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Phonebook" Source="..\Phonebook\Phonebook.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Setup1.vdproj" Source="..\Setup1\Setup1.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Setup1.vdproj" Source="..\Setup1\Setup1.vdproj" Description="Converted">
+</Event></UpgradeLog>

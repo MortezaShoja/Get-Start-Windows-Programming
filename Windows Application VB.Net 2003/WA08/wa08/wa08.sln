@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "wa08", "wa08.vbproj", "{E92BE977-C763-49CD-A431-6D6CA59DD2EF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MyControl", "..\MyControl\MyControl.vbproj", "{CB68C25D-267C-4E2C-A68C-F7566ECD0F2D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E92BE977-C763-49CD-A431-6D6CA59DD2EF}.Debug.ActiveCfg = Debug|.NET
+		{E92BE977-C763-49CD-A431-6D6CA59DD2EF}.Debug.Build.0 = Debug|.NET
+		{E92BE977-C763-49CD-A431-6D6CA59DD2EF}.Release.ActiveCfg = Release|.NET
+		{E92BE977-C763-49CD-A431-6D6CA59DD2EF}.Release.Build.0 = Release|.NET
+		{CB68C25D-267C-4E2C-A68C-F7566ECD0F2D}.Debug.ActiveCfg = Debug|.NET
+		{CB68C25D-267C-4E2C-A68C-F7566ECD0F2D}.Debug.Build.0 = Debug|.NET
+		{CB68C25D-267C-4E2C-A68C-F7566ECD0F2D}.Release.ActiveCfg = Release|.NET
+		{CB68C25D-267C-4E2C-A68C-F7566ECD0F2D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

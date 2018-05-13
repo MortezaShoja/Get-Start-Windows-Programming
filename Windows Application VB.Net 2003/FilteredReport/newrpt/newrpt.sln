@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "newrpt", "newrpt.vbproj", "{1B891BA1-4846-4BC0-BDBE-960418A48696}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "..\Setup2\Setup2.vdproj", "{4A9E1744-CDA6-4E67-B5E0-AFD474E07C63}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1B891BA1-4846-4BC0-BDBE-960418A48696}.Debug.ActiveCfg = Debug|.NET
+		{1B891BA1-4846-4BC0-BDBE-960418A48696}.Debug.Build.0 = Debug|.NET
+		{1B891BA1-4846-4BC0-BDBE-960418A48696}.Release.ActiveCfg = Release|.NET
+		{1B891BA1-4846-4BC0-BDBE-960418A48696}.Release.Build.0 = Release|.NET
+		{4A9E1744-CDA6-4E67-B5E0-AFD474E07C63}.Debug.ActiveCfg = Debug
+		{4A9E1744-CDA6-4E67-B5E0-AFD474E07C63}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
